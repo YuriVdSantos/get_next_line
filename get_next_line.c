@@ -6,7 +6,7 @@
 /*   By: yvieira- <yvieira-@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/12/08 18:13:05 by yvieira-          #+#    #+#             */
-/*   Updated: 2024/12/08 18:57:42 by yvieira-         ###   ########.fr       */
+/*   Updated: 2024/12/08 19:11:36 by yvieira-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -51,9 +51,10 @@ int main()
 		return (1);
 	}
 	get_next_line(fd);
-	close(fd);
+	
 	printf("\n");
 	get_next_line(fd);
 	close(fd);
+
 	return (0);
 }
