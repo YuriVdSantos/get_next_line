@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   get_next_line_utils.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: yurivieiradossantos <yurivieiradossanto    +#+  +:+       +#+        */
+/*   By: yvieira- <yvieira-@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/12/11 22:40:40 by yurivieirad       #+#    #+#             */
-/*   Updated: 2024/12/11 22:40:41 by yurivieirad      ###   ########.fr       */
+/*   Created: 2024/12/12 18:46:15 by yvieira-          #+#    #+#             */
+/*   Updated: 2024/12/12 18:46:18 by yvieira-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

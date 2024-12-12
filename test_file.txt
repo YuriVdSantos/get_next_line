@@ -1,0 +1,4 @@
+Linha curta\n
+Linha um pouco mais longa que a anterior\n
+\n
+Fim sem nova linha

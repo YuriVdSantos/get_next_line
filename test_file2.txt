@@ -1,0 +1,2 @@
+Segundo arquivo, linha 1\n
+Segundo arquivo, linha 2\n
