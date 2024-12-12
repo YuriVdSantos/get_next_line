@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   get_next_line_utils.c                              :+:      :+:    :+:   */
+/*   get_next_line_utils_bonus.c                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: yurivieiradossantos <yurivieiradossanto    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/12/11 22:40:40 by yurivieirad       #+#    #+#             */
-/*   Updated: 2024/12/11 22:40:41 by yurivieirad      ###   ########.fr       */
+/*   Created: 2024/12/11 22:40:33 by yurivieirad       #+#    #+#             */
+/*   Updated: 2024/12/11 22:40:34 by yurivieirad      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 t_buffer	*init_clean_buffer(int fd)
 {
